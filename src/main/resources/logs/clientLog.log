@@ -1,0 +1,104 @@
+2021-12-01 17:26:38.041 [GENERAL] INFO  org.example.App - Клиент 96d472ee-094f-4eae-a85c-586b10c3136f зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=59996]
+2021-12-01 17:43:56.931 [GENERAL] INFO  org.example.App - Клиент c64901a1-2727-4acc-b3b8-7bbc1c193b45 зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=60080]
+2021-12-01 17:50:02.370 [GENERAL] INFO  org.example.App - Клиент c7aac4ad-17a1-4f39-98d2-f319dd9ad451 зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=60101]
+2021-12-01 17:56:29.949 [GENERAL] INFO  org.example.App - Клиент 04cf1159-b462-44c1-8189-1afb0f5bffd1 зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=60131]
+2021-12-01 18:00:32.732 [GENERAL] INFO  org.example.App - Клиент 907be462-c90d-4405-be8e-9dc3b981031c зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=60154]
+2021-12-01 18:04:13.934 [GENERAL] INFO  org.example.App - Клиент 1186e433-d075-4c9f-b643-b60d21bda176 зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=60164]
+2021-12-01 18:08:44.940 [GENERAL] INFO  org.example.App - Клиент 7fa664a1-25e7-4170-832e-9b95f3542525 зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=60194]
+2021-12-01 18:11:33.247 [GENERAL] INFO  org.example.App - Клиент 35141577-bbe4-40ab-94ae-cfdea138725f зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=60231]
+2021-12-01 18:15:25.613 [GENERAL] INFO  org.example.App - Клиент a6007a35-af8e-4eb5-be81-f9c2868430e4 зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=60281]
+2021-12-01 22:26:43.839 [GENERAL] INFO  org.example.App - Клиент 87551a58-d57a-4e7e-a759-2da4c668924a зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=61392]
+2021-12-01 22:34:25.985 [ClientThread] ERROR org.example.App - Попытка установить связь с сервером не удалась. Сервер недоступен.
+2021-12-01 22:42:04.088 [GENERAL] INFO  org.example.App - Клиент 761fd948-18d2-4bcd-9c9e-147b39bdd2bd зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=61480]
+2021-12-01 22:44:41.607 [GENERAL] INFO  org.example.App - Клиент 1ca5ce71-266c-4606-bacb-a8372c77acc0 зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=61494]
+2021-12-01 22:50:43.966 [GENERAL] INFO  org.example.App - Клиент 06ef0e2b-8935-4f93-acea-d112cb37fccc зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=61522]
+2021-12-01 23:00:42.768 [GENERAL] INFO  org.example.App - Клиент 902ad889-f62a-4691-ac1d-39fad180389c зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=61572]
+2021-12-01 23:02:50.616 [GENERAL] INFO  org.example.App - Клиент f809a761-26ab-4b15-afc9-c07bbb7f19d2 зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=61586]
+2021-12-02 01:06:12.219 [GENERAL_APP] INFO  org.example.App - Клиент 6ff1eb83-f9d3-41c5-9bf1-3ad5abc313dc зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=62161]
+2021-12-02 01:06:12.231 [GENERAL_APP] INFO  org.example.App - Клиент 6ff1eb83-f9d3-41c5-9bf1-3ad5abc313dc запущен.
+2021-12-02 01:06:12.337 [GetMessageThread] INFO  org.example.App - Клиент 6ff1eb83-f9d3-41c5-9bf1-3ad5abc313dc получил сообщение: Пользователь 111 присоединился к чату..
+2021-12-02 01:06:12.338 [GetMessageThread] INFO  org.example.App - Клиент 6ff1eb83-f9d3-41c5-9bf1-3ad5abc313dc получил сообщение: 			Количество пользователей в сети: 2.
+2021-12-02 01:06:20.387 [SendMessageThread] INFO  org.example.App - Клиенту 6ff1eb83-f9d3-41c5-9bf1-3ad5abc313dc присвоено clientName: 222
+2021-12-02 01:06:26.825 [GetMessageThread] INFO  org.example.App - Клиент 6ff1eb83-f9d3-41c5-9bf1-3ad5abc313dc получил сообщение: 111: lihfv.
+2021-12-02 01:06:31.293 [SendMessageThread] INFO  org.example.App - Клиент 6ff1eb83-f9d3-41c5-9bf1-3ad5abc313dc отправил сообщение: likjg.
+2021-12-02 01:06:35.899 [GetMessageThread] INFO  org.example.App - Клиент 6ff1eb83-f9d3-41c5-9bf1-3ad5abc313dc получил сообщение: 111: ;lojg.
+2021-12-02 01:06:41.690 [SendMessageThread] INFO  org.example.App - Клиент 6ff1eb83-f9d3-41c5-9bf1-3ad5abc313dc отправил сообщение: kjhv.
+2021-12-02 01:06:46.471 [SendMessageThread] INFO  org.example.App - Клиент 6ff1eb83-f9d3-41c5-9bf1-3ad5abc313dc отправил сообщение: /exit.
+2021-12-02 01:06:46.480 [GENERAL_APP] INFO  org.example.App - Клиент 6ff1eb83-f9d3-41c5-9bf1-3ad5abc313dc с именем 222 завершил работу приложения.
+2021-12-02 01:14:27.257 [GENERAL_APP] INFO  org.example.App - Клиент 7fa9e328-fb9a-41e8-b1aa-e848609d2015 зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=62180]
+2021-12-02 01:14:27.271 [GENERAL_APP] INFO  org.example.App - Клиент 7fa9e328-fb9a-41e8-b1aa-e848609d2015 запущен.
+2021-12-02 01:14:43.840 [SendMessageThread] INFO  org.example.App - Клиенту 7fa9e328-fb9a-41e8-b1aa-e848609d2015 присвоено clientName: 222
+2021-12-02 01:14:45.955 [SendMessageThread] INFO  org.example.App - Клиент 7fa9e328-fb9a-41e8-b1aa-e848609d2015 отправил сообщение: .kjb.
+2021-12-02 01:14:51.778 [GetMessageThread] INFO  org.example.App - Клиент 7fa9e328-fb9a-41e8-b1aa-e848609d2015 получил сообщение: Пользователь 111 присоединился к чату..
+2021-12-02 01:14:51.779 [GetMessageThread] INFO  org.example.App - Клиент 7fa9e328-fb9a-41e8-b1aa-e848609d2015 получил сообщение: 			Количество пользователей в сети: 2.
+2021-12-02 01:14:53.188 [GetMessageThread] INFO  org.example.App - Клиент 7fa9e328-fb9a-41e8-b1aa-e848609d2015 получил сообщение: 111: ';pioh.
+2021-12-02 01:14:53.985 [GetMessageThread] INFO  org.example.App - Клиент 7fa9e328-fb9a-41e8-b1aa-e848609d2015 получил сообщение: 111: 'lih.
+2021-12-02 01:14:58.154 [SendMessageThread] INFO  org.example.App - Клиент 7fa9e328-fb9a-41e8-b1aa-e848609d2015 отправил сообщение: lkug.
+2021-12-02 01:15:02.759 [SendMessageThread] INFO  org.example.App - Клиент 7fa9e328-fb9a-41e8-b1aa-e848609d2015 отправил сообщение: /exit.
+2021-12-02 01:15:02.886 [GENERAL_APP] INFO  org.example.App - Клиент 7fa9e328-fb9a-41e8-b1aa-e848609d2015 с именем 222 завершил работу приложения.
+2021-12-02 01:18:21.042 [GENERAL_APP] INFO  org.example.App - Клиент 98dfa3cf-4278-43e7-baff-deffa0da38dc зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=62207]
+2021-12-02 01:18:21.074 [GENERAL_APP] INFO  org.example.App - Клиент 98dfa3cf-4278-43e7-baff-deffa0da38dc запущен.
+2021-12-02 01:18:35.369 [SendMessageThread] INFO  org.example.App - Клиенту 98dfa3cf-4278-43e7-baff-deffa0da38dc присвоено clientName: 22222
+2021-12-02 01:18:37.051 [SendMessageThread] INFO  org.example.App - Клиент 98dfa3cf-4278-43e7-baff-deffa0da38dc отправил сообщение: .kjb.
+2021-12-02 01:18:53.895 [GetMessageThread] INFO  org.example.App - Клиент 98dfa3cf-4278-43e7-baff-deffa0da38dc получил сообщение: Пользователь 111111 присоединился к чату..
+2021-12-02 01:18:53.896 [GetMessageThread] INFO  org.example.App - Клиент 98dfa3cf-4278-43e7-baff-deffa0da38dc получил сообщение: 			Количество пользователей в сети: 2.
+2021-12-02 01:18:55.334 [GetMessageThread] INFO  org.example.App - Клиент 98dfa3cf-4278-43e7-baff-deffa0da38dc получил сообщение: 111111: kljbg.
+2021-12-02 01:18:59.970 [SendMessageThread] INFO  org.example.App - Клиент 98dfa3cf-4278-43e7-baff-deffa0da38dc отправил сообщение: /lkn.
+2021-12-02 01:19:04.472 [GetMessageThread] INFO  org.example.App - Клиент 98dfa3cf-4278-43e7-baff-deffa0da38dc получил сообщение: 111111: liug.
+2021-12-02 01:19:13.316 [SendMessageThread] INFO  org.example.App - Клиент 98dfa3cf-4278-43e7-baff-deffa0da38dc отправил сообщение: /exit.
+2021-12-02 01:19:13.488 [GENERAL_APP] INFO  org.example.App - Клиент 98dfa3cf-4278-43e7-baff-deffa0da38dc с именем 22222 завершил работу приложения.
+2021-12-02 20:08:57.045 [main] ERROR org.example.App - java.io.FileNotFoundException: src\main\resources\setting.txt (Не удается найти указанный файл)
+2021-12-02 20:09:27.414 [main] ERROR org.example.App - java.io.FileNotFoundException: src\main\resources\setting.txt (Не удается найти указанный файл)
+2021-12-02 20:10:20.383 [MAIN_THREAD] INFO  org.example.App - Клиент 05ed5100-78c5-457c-b2f4-b3940f0b3f51 зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=63471]
+2021-12-02 20:10:20.392 [MAIN_THREAD] ERROR org.example.App - Сервер недоступен.
+2021-12-02 20:10:20.393 [MAIN_THREAD] INFO  org.example.App - Клиент 05ed5100-78c5-457c-b2f4-b3940f0b3f51 запущен.
+2021-12-02 20:10:27.379 [SendMessageThread] INFO  org.example.App - Клиенту 05ed5100-78c5-457c-b2f4-b3940f0b3f51 присвоено clientName: 222
+2021-12-02 20:11:00.857 [GetMessageThread] INFO  org.example.App - Клиент 05ed5100-78c5-457c-b2f4-b3940f0b3f51 получил сообщение: Пользователь Привет! присоединился к чату..
+2021-12-02 20:11:00.858 [GetMessageThread] INFO  org.example.App - Клиент 05ed5100-78c5-457c-b2f4-b3940f0b3f51 получил сообщение: 			Количество пользователей в сети: 2.
+2021-12-02 20:11:09.617 [SendMessageThread] INFO  org.example.App - Клиент 05ed5100-78c5-457c-b2f4-b3940f0b3f51 отправил сообщение: TTT.
+2021-12-02 20:11:21.755 [GetMessageThread] INFO  org.example.App - Клиент 05ed5100-78c5-457c-b2f4-b3940f0b3f51 получил сообщение: Привет!: ?????.
+2021-12-02 20:11:39.346 [SendMessageThread] INFO  org.example.App - Клиент 05ed5100-78c5-457c-b2f4-b3940f0b3f51 отправил сообщение: ЧТО ЭТО???.
+2021-12-02 20:11:50.118 [GetMessageThread] INFO  org.example.App - Клиент 05ed5100-78c5-457c-b2f4-b3940f0b3f51 получил сообщение: Привет!: ГДЕ???????.
+2021-12-02 20:12:04.299 [SendMessageThread] INFO  org.example.App - Клиент 05ed5100-78c5-457c-b2f4-b3940f0b3f51 отправил сообщение: Почему 2 сообщ сразу пришли?.
+2021-12-02 20:12:21.699 [GetMessageThread] INFO  org.example.App - Клиент 05ed5100-78c5-457c-b2f4-b3940f0b3f51 получил сообщение: Привет!: ФООЛЛ.
+2021-12-02 20:12:43.353 [SendMessageThread] INFO  org.example.App - Клиент 05ed5100-78c5-457c-b2f4-b3940f0b3f51 отправил сообщение: Привет! - это твое имя!))).
+2021-12-02 20:12:52.303 [GetMessageThread] INFO  org.example.App - Клиент 05ed5100-78c5-457c-b2f4-b3940f0b3f51 получил сообщение: Привет!: нук да)).
+2021-12-02 20:13:13.706 [MAIN_THREAD] INFO  org.example.App - Клиент ed698192-c1b0-4d14-a063-a3f7fe739b6b зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=63481]
+2021-12-02 20:13:13.719 [MAIN_THREAD] ERROR org.example.App - Сервер недоступен.
+2021-12-02 20:13:13.720 [MAIN_THREAD] INFO  org.example.App - Клиент ed698192-c1b0-4d14-a063-a3f7fe739b6b запущен.
+2021-12-02 20:13:48.169 [GetMessageThread] ERROR org.example.App - Клиент ed698192-c1b0-4d14-a063-a3f7fe739b6b потерял связь с сервером
+2021-12-02 20:13:48.250 [MAIN_THREAD] INFO  org.example.App - Клиент ed698192-c1b0-4d14-a063-a3f7fe739b6b с именем null завершил работу приложения.
+2021-12-02 20:13:48.251 [MAIN_THREAD] ERROR org.example.App - java.lang.InterruptedException: sleep interrupted
+2021-12-02 20:32:15.524 [MAIN_THREAD] INFO  org.example.App - Клиент ec687df1-6ca9-4fbb-b75d-7c78034db150 зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=63771]
+2021-12-02 20:32:15.534 [MAIN_THREAD] ERROR org.example.App - Сервер недоступен.
+2021-12-02 20:32:15.535 [MAIN_THREAD] INFO  org.example.App - Клиент ec687df1-6ca9-4fbb-b75d-7c78034db150 запущен.
+2021-12-02 20:32:32.995 [GetMessageThread] INFO  org.example.App - Клиент ec687df1-6ca9-4fbb-b75d-7c78034db150 получил сообщение: Пользователь ВАСЯ присоединился к чату..
+2021-12-02 20:32:32.996 [GetMessageThread] INFO  org.example.App - Клиент ec687df1-6ca9-4fbb-b75d-7c78034db150 получил сообщение: 			Количество пользователей в сети: 2.
+2021-12-02 20:32:56.351 [SendMessageThread] INFO  org.example.App - Клиенту ec687df1-6ca9-4fbb-b75d-7c78034db150 присвоено clientName: Наташа
+2021-12-02 20:33:06.243 [SendMessageThread] INFO  org.example.App - Клиент ec687df1-6ca9-4fbb-b75d-7c78034db150 отправил сообщение: Привет )).
+2021-12-02 20:33:21.678 [GetMessageThread] INFO  org.example.App - Клиент ec687df1-6ca9-4fbb-b75d-7c78034db150 получил сообщение: ВАСЯ: И тебе так же!!.
+2021-12-02 20:34:57.151 [MAIN_THREAD] INFO  org.example.App - Клиент aa9f3522-a0d9-42c5-9d1d-e55165a984bd зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=63781]
+2021-12-02 20:34:57.161 [MAIN_THREAD] ERROR org.example.App - Сервер недоступен.
+2021-12-02 20:34:57.162 [MAIN_THREAD] INFO  org.example.App - Клиент aa9f3522-a0d9-42c5-9d1d-e55165a984bd запущен.
+2021-12-02 20:35:09.405 [SendMessageThread] INFO  org.example.App - Клиенту aa9f3522-a0d9-42c5-9d1d-e55165a984bd присвоено clientName: Наташа
+2021-12-02 20:35:22.752 [GetMessageThread] INFO  org.example.App - Клиент aa9f3522-a0d9-42c5-9d1d-e55165a984bd получил сообщение: ВАСЯ: ьрсрп.
+2021-12-02 20:35:35.228 [GetMessageThread] ERROR org.example.App - Клиент aa9f3522-a0d9-42c5-9d1d-e55165a984bd потерял связь с сервером
+2021-12-02 20:35:35.300 [MAIN_THREAD] INFO  org.example.App - Клиент aa9f3522-a0d9-42c5-9d1d-e55165a984bd с именем Наташа завершил работу приложения.
+2021-12-02 20:35:35.300 [MAIN_THREAD] ERROR org.example.App - java.lang.InterruptedException: sleep interrupted
+2021-12-05 15:08:54.469 [MAIN_THREAD] INFO  org.example.App - Клиент 5e1cbda3-3bb9-41b6-b2d1-773e10045bdc зарегистрирован. Socket Socket[addr=localhost/127.0.0.1,port=8080,localport=65206]
+2021-12-05 15:08:54.480 [MAIN_THREAD] ERROR org.example.App - Сервер недоступен.
+2021-12-05 15:08:54.481 [MAIN_THREAD] INFO  org.example.App - Клиент 5e1cbda3-3bb9-41b6-b2d1-773e10045bdc запущен.
+2021-12-05 15:08:55.821 [GetMessageThread] INFO  org.example.App - Клиент 5e1cbda3-3bb9-41b6-b2d1-773e10045bdc получил сообщение: Пользователь 111 присоединился к чату..
+2021-12-05 15:08:55.822 [GetMessageThread] INFO  org.example.App - Клиент 5e1cbda3-3bb9-41b6-b2d1-773e10045bdc получил сообщение: 			Количество пользователей в сети: 2.
+2021-12-05 15:09:06.871 [SendMessageThread] INFO  org.example.App - Клиенту 5e1cbda3-3bb9-41b6-b2d1-773e10045bdc присвоено clientName: 222
+2021-12-05 15:09:26.044 [GetMessageThread] INFO  org.example.App - Клиент 5e1cbda3-3bb9-41b6-b2d1-773e10045bdc получил сообщение: 111: ПРИВЕТ Я 1.
+2021-12-05 15:09:50.882 [SendMessageThread] INFO  org.example.App - Клиент 5e1cbda3-3bb9-41b6-b2d1-773e10045bdc отправил сообщение: ПРИВЕТ А Я 2.
+2021-12-05 15:09:51.915 [SendMessageThread] INFO  org.example.App - Клиент 5e1cbda3-3bb9-41b6-b2d1-773e10045bdc отправил сообщение: .
+2021-12-05 15:10:00.709 [GetMessageThread] INFO  org.example.App - Клиент 5e1cbda3-3bb9-41b6-b2d1-773e10045bdc получил сообщение: 111: ДРОЛПМДРО.
+2021-12-05 15:10:05.479 [SendMessageThread] INFO  org.example.App - Клиент 5e1cbda3-3bb9-41b6-b2d1-773e10045bdc отправил сообщение: ЖДЛОР.
+2021-12-05 15:10:16.641 [GetMessageThread] INFO  org.example.App - Клиент 5e1cbda3-3bb9-41b6-b2d1-773e10045bdc получил сообщение: 111: /EXIT.
+2021-12-05 15:10:17.330 [GetMessageThread] INFO  org.example.App - Клиент 5e1cbda3-3bb9-41b6-b2d1-773e10045bdc получил сообщение: Пользователь 111 покинул чат..
+2021-12-05 15:10:17.331 [GetMessageThread] INFO  org.example.App - Клиент 5e1cbda3-3bb9-41b6-b2d1-773e10045bdc получил сообщение: Количество пользователей в сети: 1.
+2021-12-05 15:10:35.539 [GetMessageThread] ERROR org.example.App - Клиент 5e1cbda3-3bb9-41b6-b2d1-773e10045bdc потерял связь с сервером
+2021-12-05 15:10:35.719 [MAIN_THREAD] INFO  org.example.App - Клиент 5e1cbda3-3bb9-41b6-b2d1-773e10045bdc с именем 222 завершил работу приложения.
+2021-12-05 15:10:35.720 [MAIN_THREAD] ERROR org.example.App - java.lang.InterruptedException: sleep interrupted
